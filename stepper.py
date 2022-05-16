@@ -10,6 +10,7 @@ from RpiMotorLib import RpiMotorLib
 #ms3-17
 #stp-21
 #dir-20
+#thats it hehe
 
 GPIO_pins = (22, 27, 17) # Microstep Resolution MS1-MS3 -> GPIO Pin
 direction= 20       # Direction -> GPIO Pin
